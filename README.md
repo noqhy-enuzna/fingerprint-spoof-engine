@@ -16,7 +16,6 @@ pip install aiohttp aiohttp-socks
 Testing the Tool
 
 Once the dependencies are installed, you can run the script from your terminal:
-Bash
 
 python3 flood.py
 
