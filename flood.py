@@ -5,7 +5,6 @@ import random
 import time
 import sys
 
-# Color coding for terminal output
 RED = "\033[91m"
 RESET = "\033[0m"
 
