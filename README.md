@@ -30,3 +30,7 @@ Usage Instructions
 Understanding the Mechanism
 
 This tool functions by performing an asynchronous loop that initiates requests through randomized proxy and User-Agent headers.
+
+### Visual Demonstration
+![Screenshot 1](Screenshot_2026-06-12_19_40_55.png)
+![Screenshot 2](Screenshot_2026-06-12_19_41_06.png)
