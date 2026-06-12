@@ -1,6 +1,12 @@
 fingerprint-spoof-engine
 
 An asynchronous network tool designed for educational testing. It randomizes User-Agent fingerprints and routes traffic through a list of SOCKS4/5 proxies to simulate diverse request patterns. Use only with authorization to study log patterns and improve detection of deceptive traffic. Not responsible for misuse. Created by noqhy enuzna.
+Statistics
+
+    Total Proxies Available: 238
+
+    Total Fingerprints Available: 25
+
 Installation & Dependencies
 
 To run this tool, ensure you have Python 3 installed. You must install the required dependencies using pip:
@@ -8,6 +14,9 @@ To run this tool, ensure you have Python 3 installed. You must install the requi
 pip install aiohttp aiohttp-socks
 
 Testing the Tool
+
+Once the dependencies are installed, you can run the script from your terminal:
+Bash
 
 python3 flood.py
 
